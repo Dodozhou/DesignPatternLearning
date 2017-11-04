@@ -1,4 +1,4 @@
-package com.star.decorator;
+package com.star.decorator.description;
 
 /**
  * Beverage的实现者之一.

@@ -1,4 +1,4 @@
-package com.star.decorator;
+package com.star.decorator.description;
 
 /**
  * 抽象的装饰器.

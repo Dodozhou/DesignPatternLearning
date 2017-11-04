@@ -1,4 +1,4 @@
-package com.star.decorator;
+package com.star.decorator.description;
 /**
  * CondimentDecorator的具体装饰者之一
  * 摩卡是一个装饰者，所以让它继承CondimentDecorator，注意，后者继承自Beverage，

@@ -1,4 +1,4 @@
-package com.star.decorator;
+package com.star.decorator.description;
 
 /**
  * 装饰器模式中的顶层部件——抽象组件.

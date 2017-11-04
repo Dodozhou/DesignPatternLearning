@@ -1,4 +1,4 @@
-package com.star.decorator;
+package com.star.decorator.description;
 /**
  * 抽象装饰者CondimentDecorator的实现者之一.
  * 豆浆也是一个装饰者，所以让它继承CondimentDecorator，注意，后者继承自Beverage，
