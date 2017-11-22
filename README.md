@@ -18,9 +18,9 @@
 ## 设计模式
 - 策略设计模式（Strategy）:封装变化，组合嵌入
 - 装饰器设计模式（Decorator）：统一类型，无限叠加
-- 模板方法设计模式（Template Method）：易变步骤推迟到子类实现
-- 单例模式（Singleton）：保证最多只存在一个实例
-- 工厂方法与抽象工厂模式（Factory Method & Abstract Facotry）:低耦合方式生产对象
+- [模板方法设计模式（Template Method）：易变步骤推迟到子类实现](http://blog.csdn.net/zhoucheng05_13/article/details/78328832)
+- [单例模式（Singleton）：保证最多只存在一个实例](http://blog.csdn.net/zhoucheng05_13/article/details/78331699)
+- [工厂方法与抽象工厂模式（Factory Method & Abstract Facotry）:低耦合方式生产对象](http://blog.csdn.net/zhoucheng05_13/article/details/78342015)
 - [命令模式（Command）：封装方法调用，解耦调用者与接收者](http://blog.csdn.net/zhoucheng05_13/article/details/78602483)
 
 
